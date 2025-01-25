@@ -1,6 +1,11 @@
-<center>
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>
     <img src="logo_acss.gif" width="250" height="250">
-</center>
+    </td>
+  </tr>
+</table>
 
 # Collection de Configs pour mes Mods
 

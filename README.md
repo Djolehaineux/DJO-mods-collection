@@ -1,6 +1,6 @@
 # Collection de Configs pour mes Mods
 
-![Mon GIF animé](https://www.zupimages.net/up/23/06/monimage.png)
+![](images/logo_acss.gif)
 
 Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son propre dépôt. Cliquez sur les liens ci-dessous pour accéder aux fichiers :
 

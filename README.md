@@ -7,7 +7,7 @@ Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son pr
 ## Mods disponibles
 
 1. [DJO_AirDrop](https://github.com/tonpseudo/config-mod1)
-2. [Mod 2 - Configurations](https://github.com/tonpseudo/config-mod2)
+2. [DJO_Retextured](https://github.com/tonpseudo/config-mod2)
 3. [Mod 3 - Configurations](https://github.com/tonpseudo/config-mod3)
 
 ---

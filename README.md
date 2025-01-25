@@ -1,3 +1,5 @@
+https://avatars.githubusercontent.com/u/50767114?v=4
+![Mon image externe]([https://example.com/chemin/vers/ton_image.png](https://avatars.githubusercontent.com/u/50767114?v=4))
 # DJO-mods-collection
 Ce dépôt contient les fichier de configuration est description de tous mes mods
 

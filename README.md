@@ -1,6 +1,7 @@
-<div style="text-align: center;">
+<center>
     <img src="logo_acss.gif" width="250" height="250">
-</div>
+</center>
+
 # Collection de Configs pour mes Mods
 
 Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son propre dépôt. Cliquez sur les liens ci-dessous pour accéder aux fichiers :

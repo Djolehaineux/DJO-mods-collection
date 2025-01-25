@@ -1,6 +1,6 @@
 # Collection de Configs pour mes Mods
 
-![]([images/logo_acss.gif](https://github.com/Djolehaineux/DJO-mods-collection/blob/main/logo_acss.gif))
+![Mon image locale](images/logo_acss.gif)
 
 Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son propre dépôt. Cliquez sur les liens ci-dessous pour accéder aux fichiers :
 

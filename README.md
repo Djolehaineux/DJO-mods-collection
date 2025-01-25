@@ -1,6 +1,5 @@
 # Collection de Configs pour mes Mods
-
-![Mon image locale](logo_acss.gif)
+<img src="logo_acss.gif" width="300" height="200">
 
 Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son propre dépôt. Cliquez sur les liens ci-dessous pour accéder aux fichiers :
 

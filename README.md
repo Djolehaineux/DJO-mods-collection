@@ -8,7 +8,7 @@
 </table>
 
 # Collection de Configs pour mes Mods
-<p>Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son propre dépôt. Cliquez sur les liens ci-dessous pour accéder aux fichiers :</p>
+Bienvenue sur la collection des configurations pour mes mods. Chaque mod a son propre dépôt. Cliquez sur les liens ci-dessous pour accéder aux fichiers de configurations du mod :
 
 ## Fichier disponibles
 

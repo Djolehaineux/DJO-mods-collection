@@ -21,8 +21,8 @@ Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son pr
 ---
 ## STEAM
 
-[DJO_Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=3047075708)
 [DJO_AirDrop](https://steamcommunity.com/sharedfiles/filedetails/?id=3384470777)
+[DJO_Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=3047075708)
 [NewIsland](https://steamcommunity.com/sharedfiles/filedetails/?id=3197692014)
 
 ---
@@ -30,3 +30,6 @@ Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son pr
 ### Téléchargement
 Chaque dépôt contient les fichiers nécessaires.
 
+#### CONTACT
+Chaque dépôt contient les fichiers nécessaires.
+![DISCORD](https://discord.gg/UXNKcxApkU)

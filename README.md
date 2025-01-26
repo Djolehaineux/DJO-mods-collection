@@ -8,11 +8,9 @@
 </table>
 
 # Collection de Configs pour mes Mods
-<p>
-Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son propre dépôt. Cliquez sur les liens ci-dessous pour accéder aux fichiers :
-</p>
+<p>Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son propre dépôt. Cliquez sur les liens ci-dessous pour accéder aux fichiers :</p>
 
-## Mods disponibles
+## Fichier disponibles
 
 1. [DJO_AirDrop](https://github.com/tonpseudo/config-mod1)
 2. [DJO_Retextured](https://github.com/tonpseudo/config-mod2)

@@ -15,4 +15,5 @@ Bienvenue sur la collection des configurations de mes mods. Chaque mod a son pro
 ### [NewIsland](https://steamcommunity.com/sharedfiles/filedetails/?id=3197692014)
 
 ---
+## CONTACTS
 #### [DISCORD](https://discord.gg/UXNKcxApkU)

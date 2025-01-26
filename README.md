@@ -21,7 +21,7 @@ Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son pr
 ---
 ### Mods disponible
 
-[![NewIsland]([https://img.icons8.com/ios/452/link.png)](https://www.exemple.com](https://steamcommunity.com/sharedfiles/filedetails/?id=3197692014))
+[![NewIsland]([[https://img.icons8.com/ios/452/link.png](https://cdn-icons-png.flaticon.com/512/5968/5968968.png))](https://www.exemple.com](https://steamcommunity.com/sharedfiles/filedetails/?id=3197692014))
 ---
 
 ### Téléchargement

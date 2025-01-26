@@ -1,4 +1,11 @@
-<img src="logo_acss.gif" width="250" height="250">
+
+<table style="width: 100%;">
+  <tr>
+    <td>
+      <img src="logo_acss.gif" width="250" height="250">
+    </td>
+  </tr>
+</table>
 
 # COLLECTION DES CONFIGS POUR MES MODS
 Bienvenue sur la collection des configurations de mes mods. Chaque mod a son propre dépôt, il contienne un tutoriel d'installation accompagner de diverse fichier de configurations .

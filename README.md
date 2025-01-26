@@ -22,6 +22,8 @@ Bienvenue sur la collection des configurations de mes mods. Chaque mod a son pro
 ### [DJO_Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=3047075708)
 ### [NewIsland](https://steamcommunity.com/sharedfiles/filedetails/?id=3197692014)
 
+### [Workshop](https://steamcommunity.com/profiles/76561198954185886/myworkshopfiles/?p=1)
+
 ---
 ## CONTACTS
 #### [DISCORD](https://discord.gg/UXNKcxApkU)

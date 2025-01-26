@@ -23,4 +23,4 @@ Bienvenue sur la collection des configurations pour mes mods. Chaque mod a son p
 [NewIsland](https://steamcommunity.com/sharedfiles/filedetails/?id=3197692014)
 
 ---
-#### CONTACT [DISCORD](https://discord.gg/UXNKcxApkU)
+#### [DISCORD](https://discord.gg/UXNKcxApkU)

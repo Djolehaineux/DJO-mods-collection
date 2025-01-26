@@ -32,4 +32,4 @@ Chaque dépôt contient les fichiers nécessaires.
 
 #### CONTACT
 Chaque dépôt contient les fichiers nécessaires.
-![DISCORD](https://discord.gg/UXNKcxApkU)
+[DISCORD](https://discord.gg/UXNKcxApkU)

@@ -30,6 +30,4 @@ Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son pr
 ### Téléchargement
 Chaque dépôt contient les fichiers nécessaires.
 
-#### CONTACT
-Chaque dépôt contient les fichiers nécessaires.
-[DISCORD](https://discord.gg/UXNKcxApkU)
+#### CONTACT [DISCORD](https://discord.gg/UXNKcxApkU)

@@ -19,8 +19,10 @@ Bienvenue sur ma collection de configurations pour mes mods. Chaque mod a son pr
 3. [Mod 3 - Configurations](https://github.com/tonpseudo/config-mod3)
 
 ---
-### Mods disponible
+## STEAM
 
+[DJO_Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=3047075708)
+[DJO_AirDrop](https://steamcommunity.com/sharedfiles/filedetails/?id=3384470777)
 [NewIsland](https://steamcommunity.com/sharedfiles/filedetails/?id=3197692014)
 
 ---

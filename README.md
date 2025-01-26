@@ -6,7 +6,7 @@ Bienvenue sur la collection des configurations de mes mods. Chaque mod a son pro
 ## DEPOT DISPONIBLES
 
 ### [DJO_AirDrop](https://github.com/tonpseudo/config-mod1)
-### [DJO_Retextured](https://github.com/tonpseudo/config-mod2)
+### [DJO_Retextured](https://github.com/Djolehaineux/DJO_Retextured/tree/main)
 ### [Mod 3 - Configurations](https://github.com/tonpseudo/config-mod3)
 
 ---

@@ -12,9 +12,9 @@ Bienvenue sur la collection des configurations de mes mods. Chaque mod a son pro
 
 ## DEPOT DISPONIBLES
 
-1 [DJO_AirDrop](https://github.com/tonpseudo/config-mod1)
-2 [DJO_Retextured](https://github.com/tonpseudo/config-mod2)
-3 [Mod 3 - Configurations](https://github.com/tonpseudo/config-mod3)
+1. [DJO_AirDrop](https://github.com/tonpseudo/config-mod1)
+2. [DJO_Retextured](https://github.com/tonpseudo/config-mod2)
+3. [Mod 3 - Configurations](https://github.com/tonpseudo/config-mod3)
 
 ## PAGE STEAM
 ### [DJO_AirDrop](https://steamcommunity.com/sharedfiles/filedetails/?id=3384470777)

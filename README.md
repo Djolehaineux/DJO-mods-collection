@@ -8,7 +8,7 @@
 </table>
 
 # COLLECTION DES CONFIGS POUR MES MODS
-Bienvenue sur la collection des configurations de mes mods. Chaque mod a son propre dépôt, il contienne un tutoriel d'installation accompagner de diverse fichier de configurations .
+Bienvenue sur la collection des configurations de mes mods. Chaque mod a son propre dépôt, il contient un tutoriel d'installation accompagné de divers fichiers de configurations.
 
 ## DEPOT DISPONIBLES
 

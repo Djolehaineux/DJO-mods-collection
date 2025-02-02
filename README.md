@@ -14,13 +14,13 @@ Bienvenue sur la collection des configurations de mes mods. Chaque mod a son pro
 
 ### [DJO_AirDrop](https://github.com/Djolehaineux/DJO_AirDrop)
 ### [DJO_Retextured](https://github.com/Djolehaineux/DJO_Retextured)
-### [NewIsland](https://github.com/Djolehaineux/New-Island)
+### [NewIsland_Beta](https://github.com/Djolehaineux/New-Island)
 
 ---
 ## STEAM Workshop
 ### [DJO_AirDrop](https://steamcommunity.com/sharedfiles/filedetails/?id=3384470777)
 ### [DJO_Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=3047075708)
-### [NewIsland](https://steamcommunity.com/sharedfiles/filedetails/?id=3197692014)
+### [NewIsland_Beta](https://steamcommunity.com/sharedfiles/filedetails/?id=3418113928)
 
 ### [Tous mes Mods](https://steamcommunity.com/profiles/76561198954185886/myworkshopfiles/?p=1)
 

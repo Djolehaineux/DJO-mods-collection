@@ -14,7 +14,7 @@ Bienvenue sur la collection des configurations de mes mods. Chaque mod a son pro
 
 ### [DJO_AirDrop](https://github.com/Djolehaineux/DJO_AirDrop)
 ### [DJO_Retextured](https://github.com/Djolehaineux/DJO_Retextured)
-### [NewIsland_Beta](https://github.com/Djolehaineux/New-Island)
+### [NewIsland](https://github.com/Djolehaineux/New-Island)
 
 ---
 ## STEAM Workshop

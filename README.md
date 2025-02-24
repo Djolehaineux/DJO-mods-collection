@@ -20,7 +20,7 @@ Bienvenue sur la collection des configurations de mes mods. Chaque mod a son pro
 ## STEAM Workshop
 ### [DJO_AirDrop](https://steamcommunity.com/sharedfiles/filedetails/?id=3384470777)
 ### [DJO_Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=3047075708)
-### [NewIsland_Beta](https://steamcommunity.com/sharedfiles/filedetails/?id=3418113928)
+### [NewIsland](https://steamcommunity.com/sharedfiles/filedetails/?id=3433488387)
 
 ### [Tous mes Mods](https://steamcommunity.com/profiles/76561198954185886/myworkshopfiles/?p=1)
 
